@@ -80,7 +80,7 @@ int main(void)
 
         regCount++;
     }
-
+    // teste
     fclose(file);
     return 0;
 }
